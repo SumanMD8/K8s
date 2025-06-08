@@ -2,7 +2,6 @@ apiVersion: v1
 kind: Pod
 metadata: 
   name: Cart-app-Pod
-
 spec:
   containers:
     - name: test-containers
